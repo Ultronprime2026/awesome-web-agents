@@ -142,6 +142,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [TinyFish](https://www.tinyfish.ai) - Remote web agents that execute tasks on any website and return structured JSON via a single API call. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyfish-io/tinyfish-cookbook?style=social)
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
+- [ProxyClaw](https://proxyclaw.ai) - Residential proxy layer for web agents with geo-targeting across 195+ countries and built-in anti-bot bypass. Python, Node.js, and CLI. ![GitHub Repo stars](https://img.shields.io/github/stars/Iploop/proxyclaw?style=social)
 
 ## AI Web Scrapers/Crawlers
 
@@ -155,7 +156,6 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
 
-- [ProxyClaw](https://proxyclaw.ai) - Residential proxy skill for AI agents — route requests through 2M+ IPs across 195+ countries with anti-bot bypass and geo-targeting. Install via `clawhub install proxyclaw` or `pip install iploop-sdk`. ![GitHub Repo stars](https://img.shields.io/github/stars/Iploop/proxyclaw?style=social)
 ## Web Search & Query Tools
 
 Utilities that help agents search the web or query web data via natural language.
